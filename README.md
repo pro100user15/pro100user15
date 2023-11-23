@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Bogdan Tkachuk, and I'm a 19-year-old software developer currently working at Teamvoy. I specialize in Java, React, and React Native development.
+My name is Bogdan Tkachuk, and I'm a 20-year-old software developer currently working at Teamvoy. I specialize in Java, React, and React Native development.
 
 ## About Me
 
