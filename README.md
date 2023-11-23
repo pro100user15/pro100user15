@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**pro100user15/pro100user15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bogdan Tkachuk, and I'm a 19-year-old software developer currently working at Teamvoy. I specialize in Java, React, and React Native development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 I'm passionate about creating innovative and efficient solutions.
+- 💼 Currently employed at [Teamvoy](https://teamvoy.com/).
+- 🚀 Constantly learning and exploring new technologies.
+
+## Tech Stack
+
+- 💻 Java
+- ⚛️ React
+- 📱 React Native
+
+## Contact
+
+Feel free to connect with me:
+
+- 📧 Email: [bt769271@google.com](mailto:bt769271@google.com)
+- 💼 LinkedIn: [Bogdan Tkachuk](https://www.linkedin.com/in/bogdan-tkachuk-02671a222/)
+
+Let's code and create amazing things together! 🚀
